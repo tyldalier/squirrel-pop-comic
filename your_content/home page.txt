@@ -1,4 +1,4 @@
-<h1>Welcome to comic_git!</h1>
+<h1>:3</h1>
 
 <div id="comic-git-dev-banner">
     <p><b>This version of comic_git is obsolete. You can find the recommended version <a href="https://ryanvilbrandt.github.io/comic_git_dev/">here</a>, but read below for important info.</b>
